@@ -31,4 +31,4 @@ jobs:
         run: npm test
 
       - name: Simular despliegue
-        run: | echo "Despliegue simulado: La aplicación pasó lint y pruebas correctamente."
+        run: | echo "Despliegue simulado: La aplicación paso lint y pruebas correctamente."
